@@ -1,3 +1,15 @@
+EDIT:
+I changed the controller and added my own rock paper scissors class and logic.
+to build with Gradle: ./gradlew build
+then to run: java -jar build/libs/gs-rest-service-0.1.0.jar
+the new url is  http://localhost:8080/greeting
+and to play:  http://localhost:8080/greeting?play=[rock paper or scissors]
+
+
+
+
+
+
 ---
 tags: [rest]
 projects: [spring-framework]
