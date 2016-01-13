@@ -1,6 +1,6 @@
 EDIT:
-I changed the controller and added my own rock paper scissors class and logic.
-to build with Gradle: ./gradlew build
+I changed the controller (which is in the 'initial/src/main/java/hello' folder and added my own rock paper scissors class and logic.
+To build with Gradle: ./gradlew build
 -then to run: java -jar build/libs/gs-rest-service-0.1.0.jar .
 -the new url is  http://localhost:8080/rock-paper-scissors .
 -and to play:  http://localhost:8080/rock-paper-scissors?play= and then 'rock' 'paper' or 'scissors'
